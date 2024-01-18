@@ -9,3 +9,9 @@ For all support questions, ask in our [Discord](https://discord.gg/2kcXW3gRzg) s
 * Drag and drop resource into your server files
 * Start resource through server.cfg
 * Restart your server.
+
+### Depency
+
+* https://github.com/CScripts-Network/cs_lib
+* ox lib
+
